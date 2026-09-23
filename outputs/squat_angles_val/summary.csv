@@ -1,0 +1,9 @@
+﻿video,quality_label,sampled_frames,left_valid_percent,right_valid_percent,decoded_frames,expected_frames
+subject_006_squat_bad_side.mp4,bad,231,87.4,84.0,462,462
+subject_006_squat_good_side.mp4,good,232,84.1,83.2,463,463
+subject_007_squat_bad_side.mp4,bad,266,58.6,58.3,532,532
+subject_007_squat_good_side.mp4,good,240,72.5,69.6,480,480
+subject_011_squat_bad_side.mp4,bad,218,92.2,92.2,435,435
+subject_011_squat_good_side.mp4,good,241,95.4,95.4,482,482
+subject_019_squat_bad_side.mp4,bad,125,100.0,100.0,250,250
+subject_019_squat_good_side.mp4,good,132,100.0,100.0,263,263

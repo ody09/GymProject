@@ -1,0 +1,12 @@
+Video accuracy: 93.0556%
+Correct: 67/72
+
+              precision    recall  f1-score   support
+
+  bicep_curl     0.8800    0.9167    0.8980        24
+     push_up     1.0000    1.0000    1.0000        24
+       squat     0.9130    0.8750    0.8936        24
+
+    accuracy                         0.9306        72
+   macro avg     0.9310    0.9306    0.9305        72
+weighted avg     0.9310    0.9306    0.9305        72

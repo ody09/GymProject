@@ -1,0 +1,17 @@
+﻿video,exercise,side,valid_percent,estimated_complete_reps,read_complete
+subject_006_bicep_curl_bad_side,bicep_curl,left,99.6,5,True
+subject_006_bicep_curl_good_side,bicep_curl,left,100.0,0,True
+subject_007_bicep_curl_bad_side,bicep_curl,left,96.1,8,True
+subject_007_bicep_curl_good_side,bicep_curl,left,84.8,2,True
+subject_011_bicep_curl_bad_side,bicep_curl,left,100.0,8,True
+subject_011_bicep_curl_good_side,bicep_curl,left,100.0,6,True
+subject_019_bicep_curl_bad_side,bicep_curl,left,100.0,3,True
+subject_019_bicep_curl_good_side,bicep_curl,left,100.0,8,True
+subject_006_push_up_bad_side,push_up,left,100.0,0,True
+subject_006_push_up_good_side,push_up,left,95.1,0,True
+subject_007_push_up_bad_side,push_up,left,58.2,0,True
+subject_007_push_up_good_side,push_up,right,21.3,0,True
+subject_011_push_up_bad_side,push_up,left,17.3,0,True
+subject_011_push_up_good_side,push_up,left,84.8,0,True
+subject_019_push_up_bad_side,push_up,left,97.9,0,True
+subject_019_push_up_good_side,push_up,left,97.9,0,True

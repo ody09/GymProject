@@ -1,0 +1,9 @@
+﻿video,complete_reps,initial_status,initial_partial_end_s,initial_partial_candidate
+subject_006_squat_bad_side,13,unknown,,0
+subject_006_squat_good_side,15,starts_up,,0
+subject_007_squat_bad_side,3,starts_up,,0
+subject_007_squat_good_side,6,initial_partial_candidate,0.93,1
+subject_011_squat_bad_side,11,initial_partial_candidate,0.93,1
+subject_011_squat_good_side,13,initial_partial_candidate,0.53,1
+subject_019_squat_bad_side,7,initial_partial_candidate,0.53,1
+subject_019_squat_good_side,10,initial_partial_candidate,0.4,1

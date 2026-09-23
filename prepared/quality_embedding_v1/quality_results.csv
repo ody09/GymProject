@@ -1,0 +1,4 @@
+exercise,validation_accuracy,test_accuracy,pca_components,C
+squat,0.6666666666666666,0.4583333333333333,10,0.01
+push_up,0.6666666666666666,0.625,10,3.0
+bicep_curl,0.5416666666666666,0.5,5,0.03

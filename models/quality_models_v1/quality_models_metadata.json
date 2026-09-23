@@ -1,0 +1,35 @@
+{
+  "squat": {
+    "model_path": "C:\\GymProject\\models\\quality_models_v1\\squat_quality_model.joblib",
+    "selected_candidate": "forest_depth3_leaf2",
+    "number_of_numeric_features": 222,
+    "validation_accuracy": 0.5833333333333334,
+    "validation_balanced_accuracy": 0.5833333333333333,
+    "validation_f1_good": 0.6153846153846154,
+    "test_accuracy": 0.7916666666666666,
+    "test_balanced_accuracy": 0.7916666666666666,
+    "test_f1_good": 0.8148148148148148
+  },
+  "push_up": {
+    "model_path": "C:\\GymProject\\models\\quality_models_v1\\push_up_quality_model.joblib",
+    "selected_candidate": "logistic_C0.3",
+    "number_of_numeric_features": 222,
+    "validation_accuracy": 0.625,
+    "validation_balanced_accuracy": 0.625,
+    "validation_f1_good": 0.6666666666666666,
+    "test_accuracy": 0.625,
+    "test_balanced_accuracy": 0.625,
+    "test_f1_good": 0.6896551724137931
+  },
+  "bicep_curl": {
+    "model_path": "C:\\GymProject\\models\\quality_models_v1\\bicep_curl_quality_model.joblib",
+    "selected_candidate": "forest_depth5_leaf4",
+    "number_of_numeric_features": 222,
+    "validation_accuracy": 0.7916666666666666,
+    "validation_balanced_accuracy": 0.7916666666666667,
+    "validation_f1_good": 0.782608695652174,
+    "test_accuracy": 0.5833333333333334,
+    "test_balanced_accuracy": 0.5833333333333334,
+    "test_f1_good": 0.5
+  }
+}
